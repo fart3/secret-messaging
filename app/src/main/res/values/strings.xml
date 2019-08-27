@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="list">
+        <item>encode</item>
+        <item>decode</item>
+    </string-array>
+</resources>
